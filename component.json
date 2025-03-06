@@ -1,0 +1,172 @@
+{
+  "type": "component",
+  "name": "globalD",
+  "children": [
+    {
+      "name": "Badge",
+      "nodeName": "bln-badge",
+      "elementId": "",
+      "attributes": [
+        {
+          "property": "data-id",
+          "value": "l_XhO1"
+        },
+        {
+          "property": "core",
+          "value": ""
+        }
+      ],
+      "classList": [],
+      "conditionalClasses": [],
+      "conditionalStyles": [],
+      "contentType": "text",
+      "displayExpression": "",
+      "events": {},
+      "iterate": {
+        "array": "",
+        "variable": "",
+        "trackByIndex": false
+      },
+      "styles": [],
+      "children": [],
+      "comments": "",
+      "type": "core-component",
+      "expressions": []
+    },
+    {
+      "name": "Button",
+      "nodeName": "bln-button",
+      "elementId": "",
+      "attributes": [
+        {
+          "property": "data-id",
+          "value": "M4MjT0"
+        },
+        {
+          "property": "core",
+          "value": ""
+        }
+      ],
+      "classList": [],
+      "conditionalClasses": [],
+      "conditionalStyles": [],
+      "contentType": "text",
+      "displayExpression": "",
+      "events": {},
+      "iterate": {
+        "array": "",
+        "variable": "",
+        "trackByIndex": false
+      },
+      "styles": [],
+      "children": [],
+      "comments": "",
+      "type": "core-component",
+      "expressions": []
+    },
+    {
+      "name": "Checkbox",
+      "nodeName": "bln-checkbox",
+      "elementId": "",
+      "attributes": [
+        {
+          "property": "data-id",
+          "value": "Im7BoM"
+        },
+        {
+          "property": "core",
+          "value": ""
+        }
+      ],
+      "classList": [],
+      "conditionalClasses": [],
+      "conditionalStyles": [],
+      "contentType": "text",
+      "displayExpression": "",
+      "events": {},
+      "iterate": {
+        "array": "",
+        "variable": "",
+        "trackByIndex": false
+      },
+      "styles": [],
+      "children": [],
+      "comments": "",
+      "type": "core-component",
+      "expressions": [],
+      "formControl": {
+        "modelName": "checked"
+      }
+    },
+    {
+      "name": "Chip List",
+      "nodeName": "bln-chip-list",
+      "elementId": "",
+      "attributes": [
+        {
+          "property": "data-id",
+          "value": "pdP-cy"
+        },
+        {
+          "property": "core",
+          "value": ""
+        }
+      ],
+      "classList": [],
+      "conditionalClasses": [],
+      "conditionalStyles": [],
+      "contentType": "text",
+      "displayExpression": "",
+      "events": {},
+      "iterate": {
+        "array": "",
+        "variable": "",
+        "trackByIndex": false
+      },
+      "styles": [],
+      "children": [],
+      "comments": "",
+      "type": "core-component",
+      "expressions": [],
+      "formControl": {
+        "modelName": "values"
+      }
+    }
+  ],
+  "variables": [
+    {
+      "name": "petstore",
+      "type": "open-api",
+      "id": "open-api"
+    },
+    {
+      "name": "a",
+      "type": "property",
+      "description": "",
+      "value": ""
+    },
+    {
+      "name": "b",
+      "type": "object",
+      "description": "",
+      "properties": []
+    },
+    {
+      "name": "c",
+      "type": "method",
+      "description": "",
+      "body": "a",
+      "invokeOnLoad": false,
+      "isAsync": false,
+      "returnType": {
+        "name": "any"
+      },
+      "parameters": []
+    }
+  ],
+  "bindings": [],
+  "modules": [],
+  "styles": [],
+  "externalScripts": [],
+  "externalStylesheets": []
+}
